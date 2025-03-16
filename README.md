@@ -53,10 +53,8 @@ This project is a simulation based on an evolving cellular automaton, designed t
    cd forest-fire-simulation
    ```
 2. Run the simulation:
-   ```sh
-   python main.py
-   ```
-3. In function ,,contro_functio()" you are able to modify simulation conditions
+
+3. In function ,,control_functio()" you are able to modify simulation conditions
 
    ![awdaw](https://github.com/user-attachments/assets/fc3c30ae-6da3-486e-ad9a-ccb0039b3a91)
 
